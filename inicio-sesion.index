@@ -8,6 +8,15 @@
 			<meta name="keywords" content="relojes rolex casio">
 		</head>
 		<body>
+<p>Nombre: 
+								<input type="text" name="Nombre" minlength="1"></p>
+							
+							<p>Contraseña: 
+								<input type="password" name="password" minlength="6"></p>
+						
+							<p>
+    								<input type="submit" value="Iniciar Sesi">
+								<input type="reset" value="Borrar">
 			
    
 			<form action="https://mariomartinezplaza1333.github.io/tiendaderelojes/registro.html" enctype="multipart/form-data" method="get">
