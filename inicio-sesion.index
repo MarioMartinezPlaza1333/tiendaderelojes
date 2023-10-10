@@ -9,20 +9,15 @@
 			<meta charset="UTF-8" />
 		</head>
 		<body>
-			<p>Nombre: 
-				<input type="text" name="Nombre" minlength="1"></p>					
-			<p>Contraseña: 
-				<input type="password" name="password" minlength="6"></p>
-			<p>
-    				<input type="submit" value="Iniciar Sesión">
-					
-				<input type="reset" value="Borrar">
-			
-   
-			<form action="https://mariomartinezplaza1333.github.io/tiendaderelojes/registro.html" enctype="multipart/form-data" method="get">
-				<button> 
-					<input type="submit" value="Volver">
-				</button>
+			<form>
+				<p>Nombre:
+					<input type="text" name="Nombre" minlength="1"></p>					
+				<p>Contraseña: 
+					<input type="password" name="password" minlength="6"></p>
+				<p>
+    					<input type="submit" value="Iniciar Sesión">
+						<form action="https://mariomartinezplaza1333.github.io/tiendaderelojes/registro.html" enctype="multipart/form-data" method="get"></form>
+					<input type="reset" value="Borrar">
 			</form>
 		</body>
 	</html>
