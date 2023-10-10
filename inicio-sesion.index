@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>	
 	<html lang="es">
 		<head> 
 			<title>Venta de relojes</title>
@@ -14,7 +14,8 @@
 			<p>Contraseña: 
 				<input type="password" name="password" minlength="6"></p>
 			<p>
-    				<input type="submit" value="Iniciar Sesi">
+    				<input type="submit" value="Iniciar Sesión">
+					
 				<input type="reset" value="Borrar">
 			
    
