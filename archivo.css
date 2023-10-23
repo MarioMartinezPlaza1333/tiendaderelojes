@@ -1,4 +1,6 @@
 body {margin: 0px;}
-td  {color: #60EA24; font-size: 12px;}
-a  {color: #60EA24; font-weight: bold;}
+td  {color: #60EA24;
+     font-size: 12px;}
+a  {color: #60EA24;
+    font-weight: bold;}
 a:hover (color: #3366CC;)
