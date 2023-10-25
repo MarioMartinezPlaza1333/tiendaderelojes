@@ -128,28 +128,8 @@ button {
     margin-left: 2%;
 }
 
-/*       Forgot Password button FAF3DD  */
-.frgt-pass {background: transparent;}
 
-/*     Sign Up button  */
+.frgt-pass {background: transparent;}
 .sign-up {background: #B8F2E6;}
 
 
-/* buttons hover */
-button:hover {
-    transform: translatey(3px);
-    box-shadow: none;
-}
-
-/* buttons hover Animation */
-button:hover {
-    animation: ani9 0.4s ease-in-out infinite alternate;
-}
-@keyframes ani9 {
-    0% {
-        transform: translateY(3px);
-    }
-    100% {
-        transform: translateY(5px);
-    }
-}
