@@ -22,36 +22,24 @@ form {
 form .con {
     display: -webkit-flex;
     display: flex;
-  
     -webkit-justify-content: space-around;
     justify-content: space-around;
-  
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
-  
-      margin: 0 auto;
+    margin: 0 auto;
 }
-
-/* the header form form */
 header {
     margin: 2% auto 10% auto;
     text-align: center;
 }
-/* Login title form form */
 header h2 {
     font-size: 250%;
     font-family: 'Playfair Display', serif;
     color: #3e403f;
 }
-/*  A welcome message or an explanation of the login form */
-header p {letter-spacing: 0.05em;}
-
-
-
-/* //////////////////////////////////////////// */
-/* //////////////////////////////////////////// */
-
-
+header p {
+    letter-spacing: 0.05em;
+}
 .input-item {
     background: #fff;
     color: #333;
