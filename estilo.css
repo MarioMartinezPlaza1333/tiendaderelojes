@@ -61,21 +61,7 @@ width:190px;
   font-family: 'Titillium Web', sans-serif;
 }
 
-}
-.no-touch .scrollable.hover:hover {
-overflow-y:auto;
-overflow:visible;
-}
-a:hover,a:focus {
-text-decoration:none;
-}
-nav {
--webkit-user-select:none;
--moz-user-select:none;
--ms-user-select:none;
--o-user-select:none;
-user-select:none;
-}
+
 nav ul,nav li {
 outline:0;
 margin:0;
