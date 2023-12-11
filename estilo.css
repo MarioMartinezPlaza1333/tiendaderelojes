@@ -60,8 +60,7 @@ vertical-align:middle;
 width:190px;
   font-family: 'Titillium Web', sans-serif;
 }
-.no-touch .scrollable.hover {
-overflow-y:hidden;
+
 }
 .no-touch .scrollable.hover:hover {
 overflow-y:auto;
