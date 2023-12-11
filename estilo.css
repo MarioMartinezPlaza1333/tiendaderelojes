@@ -52,15 +52,7 @@ text-decoration:none;
 -webkit-transition:all .1s linear;
 transition:all .1s linear;  
 }
-.main-menu .nav-icon {
-position:relative;
-display:table-cell;
-width:60px;
-height:36px;
-text-align:center;
-vertical-align:middle;
-font-size:18px;
-}
+
 .main-menu .nav-text {
 position:relative;
 display:table-cell;
