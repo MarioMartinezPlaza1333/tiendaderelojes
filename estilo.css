@@ -35,7 +35,6 @@ overflow:hidden;  /*Para que el texto del menu solo aparezca al desplegarlo*/
 
     /*Posicion del Texto*/
 .main-menu li {
-position:relative;  /*Posición*/
 width:250px;  /*Posición del texto*/
 }
 
