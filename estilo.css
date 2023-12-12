@@ -36,17 +36,17 @@ overflow:hidden;  /*Para que el texto del menu solo aparezca al desplegarlo*/
 
     /*Posicion del Texto*/
 .main-menu li {
-position:relative;
-width:250px;
+position:relative;  /*Posición*/
+width:250px;  /*Posición del texto*/
 }
 
 
     /*Margenes*/
 .main-menu .nav-text {
-position:relative;
+position:relative;  /*Posición*/
 }
 nav ul,nav li {
 outline:0;
-margin:0;
-padding:0;
+margin:0;  /*Margen*/
+padding:0;  /*Margen*/
 }
