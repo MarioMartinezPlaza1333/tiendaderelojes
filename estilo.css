@@ -1,5 +1,5 @@
 /*Menu Lateral*/
-  /*Texto*/
+    /*Texto*/
 .fa {
 display: table-cell;  /*Colocación del texto*/
 width: 60px;  /*Margen*/
@@ -15,13 +15,13 @@ text-decoration:none;  /*Decoración del texto*/
 }
 
 
-  /*Expansion del menu*/
+    /*Expansion del menu*/
 .main-menu:hover,nav.main-menu.expanded {
 width:250px;  /*Tamaño de despliege del menu*/
 }
 
 
-  /*Principal*/
+    /*Principal*/
 .main-menu {
 background: black;  /*Color del fondo*/
 position:fixed;  /*Posición*/
@@ -34,14 +34,14 @@ overflow:hidden;  /*Para que el texto del menu solo aparezca al desplegarlo*/
 }
 
 
-  /*Posicion del Texto*/
+    /*Posicion del Texto*/
 .main-menu li {
 position:relative;
 width:250px;
 }
 
 
-  /*Margenes*/
+    /*Margenes*/
 .main-menu .nav-text {
 position:relative;
 }
