@@ -46,7 +46,6 @@ width:250px;  /*Posición del texto*/
 position:relative;  /*Posición*/
 }
 nav ul,nav li {
-outline:0;
 margin:0;  /*Margen*/
 padding:0;  /*Margen*/
 }
