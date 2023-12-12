@@ -1,3 +1,35 @@
+/*Principal*/
+.main-menu {
+background: black;
+position:fixed;
+top:0;
+bottom:0;
+height:100%;
+left:0;
+width:60px;
+overflow:hidden;
+-webkit-transition:width .05s linear;
+transition:width .05s linear;
+}
+
+
+/*Expansion del menu*/
+.main-menu:hover,nav.main-menu.expanded {
+width:250px;
+overflow:visible;
+}
+.main-menu>ul {
+margin:7px 0;
+}
+
+
+/*Posicion del texto*/
+.main-menu li {
+position:relative;
+display:block;
+width:250px;
+}
+
 
 /*Texto*/
 .fa {
@@ -23,35 +55,6 @@ text-decoration:none;
 transition:all .1s linear;  
 }
 
-/*Expansion del menu*/
-.main-menu:hover,nav.main-menu.expanded {
-width:250px;
-overflow:visible;
-}
-.main-menu>ul {
-margin:7px 0;
-}
-
-/*Principal*/
-.main-menu {
-background: black;
-position:fixed;
-top:0;
-bottom:0;
-height:100%;
-left:0;
-width:60px;
-overflow:hidden;
--webkit-transition:width .05s linear;
-transition:width .05s linear;
-}
-
-/*Posicion de los links*/
-.main-menu li {
-position:relative;
-display:block;
-width:250px;
-}
 
 /*Margenes*/
 nav ul,nav li {
