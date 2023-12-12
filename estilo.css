@@ -24,7 +24,7 @@ width:250px;  /*Tamaño de despliege del menu*/
     /*Principal*/
 .main-menu {
 background: black;  /*Color del fondo*/
-position:fixed;  /*Posición*/
+position:fixed;  /*Posición del menu*/
 top:0;  /*Parte de arriba del menu*/
 bottom:0;  /*Parte de abajo del menu*/
 left:0;  /*Parte izquierda del menu*/
