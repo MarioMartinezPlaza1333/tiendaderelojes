@@ -41,6 +41,6 @@ width:250px;  /*Posición del texto*/
 
     /*Margenes*/
 nav ul,nav li {
-margin:0;  /*Margen*/
-padding:0;  /*Margen*/
+margin:0px;  /*Margen*/
+padding:0px;  /*Margen*/
 }
