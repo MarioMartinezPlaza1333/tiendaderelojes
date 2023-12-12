@@ -7,7 +7,6 @@ height: 45px;  /*Espacio entre filas*/
 font-size:20px;  /*Tamaño del texto*/  
 }
 .main-menu li>a {
-position:relative;  /*Posición*/
 color: white;  /*Color del texto*/
 font-family: Calibri;  /*Tipo de letra*/
 font-size: 14px;  /*Tamaño del texto*/
