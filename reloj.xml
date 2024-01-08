@@ -2,8 +2,8 @@
 <?xml-stylesheet type="type/css" href="estiloxml.css"?>
 <relojes>
   <reloj id="1">
-    <nombre></nombre>
+    	<nombre></nombre>
 	<marca></marca>
 	<precio></precio>
   </reloj>
-  </relojes>
+</relojes>
