@@ -2,8 +2,8 @@
 <?xml-stylesheet type="type/css" href="estiloxml.css"?>
 <relojes>
   <reloj id="1">
-    	<nombre></nombre>
-	<marca></marca>
-	<precio></precio>
+    	<nombre>h</nombre>
+	<marca>casio</marca>
+	<precio>10</precio>
   </reloj>
 </relojes>
